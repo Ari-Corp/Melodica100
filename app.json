@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Melodica",
+    "slug": "Melodica",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.jpeg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/MT.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#8355d8"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Micon.png"
+    }
+  }
+}
